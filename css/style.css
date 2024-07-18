@@ -103,6 +103,10 @@ body{
     .contenedor__car{
         width: 40%;
     }
+    .contenedor__header svg{
+        max-width: 100%;
+        border-radius: 2rem;
+    }
     
 }
 @media (min-width: 1440px) {
